@@ -34,7 +34,7 @@
         ]);
 
         var options = {
-          title: 'Donut Time',
+          //title: 'Donut Time',
           pieHole: 0.5,
           pieSliceTextStyle: {
             color: 'black',
